@@ -1,0 +1,6 @@
+# Ubuntu 22.04 / driver 535.183.01 profile.
+# Install the CUDA wheels from the official cu118 index first (setup_server.sh).
+torch==2.7.1+cu118
+torchvision==0.22.1+cu118
+numpy==1.26.4
+Pillow>=10,<13

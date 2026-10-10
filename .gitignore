@@ -1,0 +1,12 @@
+output/
+data/raw/
+__pycache__/
+*.pyc
+.idea/
+.venv/
+*.pt
+*.pth
+*.log
+.env
+*.pem
+***credentials***

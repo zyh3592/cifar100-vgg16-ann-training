@@ -1,0 +1,7 @@
+{
+  "completed_epochs": 300,
+  "best_validation_top1": 77.06,
+  "debug_run": false,
+  "test_set_used": false,
+  "full_schedule_completed": true
+}

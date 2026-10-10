@@ -1,0 +1,24 @@
+{
+  "python": "3.10.22",
+  "torch": "2.7.1+cu118",
+  "train_accuracy_definition": "label-weighted accuracy on augmented training batches",
+  "validation_accuracy_definition": "ordinary top-k on unaugmented validation images",
+  "torchvision": "0.22.1+cu118",
+  "numpy": "2.2.6",
+  "cuda_runtime": "11.8",
+  "cudnn": 90100,
+  "device": "cuda:0",
+  "amp_enabled": true,
+  "train_samples": 45000,
+  "validation_samples": 5000,
+  "parameters": 34015396,
+  "model_config": {
+    "batch_norm": true,
+    "pool": "max",
+    "hidden_dim": 4096,
+    "dropout": 0.5,
+    "num_classes": 100
+  },
+  "gpu_name": "NVIDIA GeForce RTX 4090",
+  "gpu_total_gib": 23.64703369140625
+}

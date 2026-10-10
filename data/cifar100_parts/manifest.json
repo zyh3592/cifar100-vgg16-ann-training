@@ -1,0 +1,35 @@
+{
+  "dataset": "CIFAR-100 python",
+  "source_url": "https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz",
+  "archive_name": "cifar-100-python.tar.gz",
+  "archive_size": 169001437,
+  "archive_md5": "eb9058c3a382ffc7106e4002c42a8d85",
+  "archive_sha256": "85cd44d02ba6437773c5bbd22e183051d648de2e7d6b014e1ef29b855ba677a7",
+  "parts": [
+    {
+      "name": "cifar-100-python.tar.gz.part000",
+      "size": 41943040,
+      "sha256": "08eb8ccf79606d1ddfc5b2eee079860cf4b8d32830457748f28967c9af3c7616"
+    },
+    {
+      "name": "cifar-100-python.tar.gz.part001",
+      "size": 41943040,
+      "sha256": "c78905c1b183766d2920526d5fde3335b28bbd6ccf85ebf2dd43f434e53f8d13"
+    },
+    {
+      "name": "cifar-100-python.tar.gz.part002",
+      "size": 41943040,
+      "sha256": "4115582e5a0902a58115ebcfca5a2ae3ee5d8543f77782ae3eceeab5a5171940"
+    },
+    {
+      "name": "cifar-100-python.tar.gz.part003",
+      "size": 41943040,
+      "sha256": "0276314ecefabc4b54eab7c3462239c5b9caefd31bce6340e17eabb70c1bbebe"
+    },
+    {
+      "name": "cifar-100-python.tar.gz.part004",
+      "size": 1229277,
+      "sha256": "0b17c12e3ebda4e5d11b3edfae6ab835a05744a6d0085a42e6795b76c656724c"
+    }
+  ]
+}

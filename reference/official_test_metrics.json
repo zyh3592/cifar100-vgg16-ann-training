@@ -1,0 +1,10 @@
+{
+  "loss": 0.9546987867355347,
+  "top1": 76.16,
+  "top5": 93.43,
+  "samples": 10000,
+  "checkpoint_epoch": 297,
+  "split": "official_test",
+  "partial_evaluation": false,
+  "checkpoint_debug_run": false
+}

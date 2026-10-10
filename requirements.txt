@@ -1,0 +1,5 @@
+# Install a matched torch/torchvision pair for your GPU first; see README.
+torch>=2.4,<3
+torchvision>=0.19,<1
+numpy>=1.26,<3
+Pillow>=10
